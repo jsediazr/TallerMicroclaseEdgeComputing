@@ -1,0 +1,6 @@
+Imagen elegida: image4.png
+Etiquetas detectadas: ['bus', 'person', 'motorcycle', 'person', 'motorcycle', 'person', 'car', 'motorcycle']
+
+Juan Sebastian Diaz Rodriguez
+Laura Alejandra Merchan Leon
+Stiven Gonzalez Olaya
